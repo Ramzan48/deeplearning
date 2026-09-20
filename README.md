@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="poster.pdf" alt="Project poster">
+  <img src="poster.png" alt="Project poster">
 </p>
