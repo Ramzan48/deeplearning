@@ -1,0 +1,10 @@
+aeroscapes/
+checkpoints/
+make_plots.py
+*.zip
+.venv/
+__pycache__
+wandb/
+visualisations/
+.python-version
+*.png
